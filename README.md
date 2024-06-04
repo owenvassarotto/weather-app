@@ -1,4 +1,4 @@
-# Weather App
+# Weather App <img src="public/Weather-icon.png" alt="Weather Icon" width="50">
 
 A simple weather application built with Vite, React.js, TypeScript, Zod, and Styled Components. This app fetches weather data from a Weather API and displays it in a user-friendly interface.
 
@@ -12,7 +12,7 @@ A simple weather application built with Vite, React.js, TypeScript, Zod, and Sty
 
 ## Live Demo
 
-Check out the live demo: [Weather App Live Demo](https://your-live-demo-url.com)
+Check out the live demo: [Weather App Live Demo](https://climapp-owenvassarotto.netlify.app/)
 
 ## Getting Started
 
