@@ -1,0 +1,1 @@
+export const convertKevinToCelsius = (value: number): number => parseInt((value - 273.15).toString());

@@ -1,0 +1,30 @@
+.title {
+    text-align: center;
+    font-size: 4rem;
+    margin-top: 5rem;
+    letter-spacing: .3rem;
+    display: flex;
+    gap: 1rem;
+    justify-content: center;
+    align-items: center;
+}
+.title img {
+    width: 40px;
+    height: 40px;
+}
+.container {
+    width: 95%;
+    max-width: 100rem;
+    margin: 0 auto;
+}
+
+/* a partir de 728px */
+@media (min-width: 768px) {
+    .container {
+        display: grid;
+        grid-template-columns: repeat(2, 1fr);
+        align-items: center;
+        gap: 8rem;
+        margin-top: 5rem;
+    }
+}

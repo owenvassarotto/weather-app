@@ -1,0 +1,9 @@
+.alert {
+    background-color: #ff1010;
+    color: var(--white);
+    padding: 1rem;
+    font-weight: bold;
+    text-transform: uppercase;
+    text-align: center;
+    font-size: medium;
+}
